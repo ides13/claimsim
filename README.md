@@ -1,10 +1,10 @@
 # claimsim
 
-1、建議安裝，anaconda python。
+1、建議安裝，anaconda python。並且，需要gensim 套件。
 
-2、gensim 套件。
+2、功能：找出「一個技術描述(sentance1)」，與 「patentlist 中各專利請求項1 」間的相似度。
 
-3、找出「一個技術描述(sentance1)」，與 「patentlist 中各專利請求項1 」間的相似度，使用方式如下：
+3、此程式的使用方式如下：
 
 #sentance1 指的是一個技術的描述，最簡單的方法就是一個發明的請求項的記載方式。
 
