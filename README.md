@@ -1,7 +1,9 @@
 # claimsim
 
 1、建議安裝，anaconda python。
+
 2、gensim 套件。
+
 3、找出「一個技術描述(sentance1)」，與 「patentlist 中各專利請求項1 」間的相似度，使用方式如下：
 #sentance1 指的是一個技術的描述，最簡單的方法就是一個發明的請求項的記載方式
 #patentlist 提供想要比對的美國專利書號碼，例如['US7654301B2', 'US7654300B2', 'US7654329B2']
